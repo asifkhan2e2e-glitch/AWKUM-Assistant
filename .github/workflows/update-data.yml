@@ -1,0 +1,11 @@
+# secrets - never commit
+.env
+*.env
+.streamlit/secrets.toml
+# python
+.venv/
+awkum-env/
+__pycache__/
+*.pyc
+# raw debug dumps
+raw_*.txt
