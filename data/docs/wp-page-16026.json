@@ -1,0 +1,50 @@
+{
+ "id": "wp-page-16026",
+ "source": "wp",
+ "url": "https://awkum.edu.pk/faculties-colleges/",
+ "title": "Faculties & Colleges",
+ "category": "department",
+ "labels": [],
+ "published": "2020-07-21T09:32:21",
+ "modified": "2023-02-08T06:13:53",
+ "text": "Faculties\n\n01 | Faculty of Arts & Humanities (https://awkum.edu.pk/faculties-colleges/faculty-of-arts-humanities/)\n02 | Faculty of Business & Economics (https://awkum.edu.pk/faculties-colleges/faculty-of-business-economics/)\n03 | Faculty of Chemical & Life Sciences (https://awkum.edu.pk/faculties-colleges/faculty-of-chemical-life-sciences/)\n04 | Faculty of Physical & Numerical Sciences (https://awkum.edu.pk/faculties-colleges/faculty-of-physical-numerical-sciences/)\n05 | Faculty of Social Sciences (https://awkum.edu.pk/faculties-colleges/faculty-of-social-sciences/)\n\nConstituent Colleges\n\n01 | College of Animal Husbandry & Veterinary Sciences (https://awkum.edu.pk/faculties-colleges/cahvs/)\n02 | Pakhtunkhwa College of Arts (https://awkum.edu.pk/faculties-colleges/faculty-of-arts-humanities/pca-2/)\n03 | University College for Women (https://awkum.edu.pk/faculties-colleges/ucw/)",
+ "links": [
+  {
+   "label": "Faculty of Arts & Humanities",
+   "href": "https://awkum.edu.pk/faculties-colleges/faculty-of-arts-humanities/"
+  },
+  {
+   "label": "Faculty of Business & Economics",
+   "href": "https://awkum.edu.pk/faculties-colleges/faculty-of-business-economics/"
+  },
+  {
+   "label": "Faculty of Chemical & Life Sciences",
+   "href": "https://awkum.edu.pk/faculties-colleges/faculty-of-chemical-life-sciences/"
+  },
+  {
+   "label": "Faculty of Physical & Numerical Sciences",
+   "href": "https://awkum.edu.pk/faculties-colleges/faculty-of-physical-numerical-sciences/"
+  },
+  {
+   "label": "Faculty of Social Sciences",
+   "href": "https://awkum.edu.pk/faculties-colleges/faculty-of-social-sciences/"
+  },
+  {
+   "label": "College of Animal Husbandry & Veterinary Sciences",
+   "href": "https://awkum.edu.pk/faculties-colleges/cahvs/"
+  },
+  {
+   "label": "Pakhtunkhwa College of Arts",
+   "href": "https://awkum.edu.pk/faculties-colleges/faculty-of-arts-humanities/pca-2/"
+  },
+  {
+   "label": "University College for Women",
+   "href": "https://awkum.edu.pk/faculties-colleges/ucw/"
+  }
+ ],
+ "faculty": "",
+ "department": "",
+ "section": "",
+ "hash": "36359f4322027a58",
+ "collected_at": "2026-10-31T18:05:16+00:00"
+}

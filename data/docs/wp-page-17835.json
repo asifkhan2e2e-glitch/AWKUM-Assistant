@@ -1,0 +1,30 @@
+{
+ "id": "wp-page-17835",
+ "source": "wp",
+ "url": "https://awkum.edu.pk/faculties-colleges/faculty-of-physical-numerical-sciences/computer-science-departments/",
+ "title": "Computer Science Departments",
+ "category": "department",
+ "labels": [],
+ "published": "2020-11-02T09:05:24",
+ "modified": "2020-12-28T13:40:36",
+ "text": "Departments of Computer Science at AWKUM\n\n1) | Department of Computer Science, Garden Campus (https://awkum.edu.pk/faculties-colleges/faculty-of-physical-numerical-sciences/cs-garden/)\n2) | Department of Computer Science, SRH Pabbi Campus (https://awkum.edu.pk/faculties-colleges/faculty-of-physical-numerical-sciences/cs-srh/)\n3) | Department of Computer Science, Timergara Campus (https://awkum.edu.pk/faculties-colleges/faculty-of-physical-numerical-sciences/cs-timergara/)",
+ "links": [
+  {
+   "label": "Department of Computer Science, Garden Campus",
+   "href": "https://awkum.edu.pk/faculties-colleges/faculty-of-physical-numerical-sciences/cs-garden/"
+  },
+  {
+   "label": "Department of Computer Science, SRH Pabbi Campus",
+   "href": "https://awkum.edu.pk/faculties-colleges/faculty-of-physical-numerical-sciences/cs-srh/"
+  },
+  {
+   "label": "Department of Computer Science, Timergara Campus",
+   "href": "https://awkum.edu.pk/faculties-colleges/faculty-of-physical-numerical-sciences/cs-timergara/"
+  }
+ ],
+ "faculty": "faculty-of-physical-numerical-sciences",
+ "department": "computer-science-departments",
+ "section": "",
+ "hash": "13f0d23f0e286ca5",
+ "collected_at": "2026-10-31T18:05:16+00:00"
+}
