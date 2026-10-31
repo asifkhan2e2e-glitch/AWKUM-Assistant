@@ -1,11 +1,58 @@
-# secrets - never commit
-.env
-*.env
-.streamlit/secrets.toml
-# python
-.venv/
-awkum-env/
-__pycache__/
-*.pyc
-# raw debug dumps
-raw_*.txt
+name: Update AWKUM data
+
+# Every 6 hours (and on demand): read the AWKUM website, rebuild the search index, and save the result in the repo.
+# Streamlit Community Cloud notices the new commit and refreshes the chatbot by itself.
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install packages
+        run: python -m pip install -r requirements.txt
+
+      - name: Collect pages and news from the website
+        run: python chatbot03.py
+
+      - name: Rebuild the search index (only when something changed)
+        run: |
+          if [ ! -f data/index.sqlite ] || [ -n "$(git status --porcelain data/docs)" ]; then
+            python chatbot04.py
+          else
+            echo "Website data unchanged, index kept."
+          fi
+
+      - name: Keep the schedule alive
+        # GitHub pauses scheduled workflows in repos with no activity for 60 days; one tiny commit a day prevents that.
+        run: |
+          if [ "$(date -u +%H)" = "00" ]; then date -u > data/last_run.txt; fi
+
+      - name: Save changes
+        run: |
+          git config user.name "awkum-data-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "Nothing to save."
+          else
+            git commit -m "Update AWKUM data $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
