@@ -1,8 +1,8 @@
 # Collector report
 
-Run: 2026-11-03T00:11:15+00:00
+Run: 2026-11-03T13:13:46+00:00
 
-- New: 0  |  Changed: 0  |  Unchanged: 719  |  Removed: 0
+- New: 1  |  Changed: 2  |  Unchanged: 717  |  Removed: 0
 
 ## Items by category
 
@@ -10,8 +10,8 @@ Run: 2026-11-03T00:11:15+00:00
 - news: 155
 - other: 69
 - admission: 62
+- jobs: 54
 - phd_defense: 54
-- jobs: 53
 - administration: 31
 - tender: 24
 - hostel: 17
