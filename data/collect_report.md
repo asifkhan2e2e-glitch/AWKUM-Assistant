@@ -1,19 +1,19 @@
 # Collector report
 
-Run: 2026-11-06T04:07:12+00:00
+Run: 2026-11-06T13:26:27+00:00
 
-- New: 0  |  Changed: 2  |  Unchanged: 717  |  Removed: 0
+- New: 3  |  Changed: 3  |  Unchanged: 716  |  Removed: 0
 
 ## Items by category
 
 - department: 221
-- news: 154
+- news: 156
 - other: 69
 - admission: 61
 - jobs: 54
 - phd_defense: 54
 - administration: 31
-- tender: 25
+- tender: 26
 - hostel: 17
 - academics: 9
 - exam_result: 9
@@ -51,7 +51,7 @@ Run: 2026-11-06T04:07:12+00:00
 - https://news.awkum.edu.pk/2026/06/pre-bid-meeting-minutes-and-revised.html
 - https://news.awkum.edu.pk/2026/04/faculty-recruitment-announcement.html
 
-## Items with very little text (167) - probably image-based, need a look
+## Items with very little text (168) - probably image-based, need a look
 
 - https://awkum.edu.pk/awkum-research-journals/research-databases/ (100 chars)
 - https://awkum.edu.pk/faculties-colleges/colleges/ (0 chars)
@@ -63,6 +63,7 @@ Run: 2026-11-06T04:07:12+00:00
 - https://awkum.edu.pk/friday-as-working-day/ (0 chars)
 - https://awkum.edu.pk/vc-charge-assumption/ (21 chars)
 - https://awkum.edu.pk/professor-dr-zahoor-ul-haq-appointed-as-vice-chancellor-awkum-for-the-period-of-three-years/ (0 chars)
+- https://news.awkum.edu.pk/2026/11/tender-notice-for-purchase-of-sports.html (140 chars)
 - https://news.awkum.edu.pk/2026/11/tender-notice-for-supply-installation.html (125 chars)
 - https://news.awkum.edu.pk/2026/10/notification-from-office-of-registrar_02105787359.html (0 chars)
 - https://news.awkum.edu.pk/2026/10/notification-from-office-of-registrar.html (0 chars)
@@ -132,4 +133,3 @@ Run: 2026-11-06T04:07:12+00:00
 - https://news.awkum.edu.pk/2026/03/open-public-defense-of-phd-dissertation_35.html (0 chars)
 - https://news.awkum.edu.pk/2026/03/open-public-defense-of-phd-dissertation_26.html (0 chars)
 - https://news.awkum.edu.pk/2026/03/awkum-announces-eid-ul-fitr-and.html (0 chars)
-- https://news.awkum.edu.pk/2026/03/open-public-defense-of-phd-dissertation_18.html (0 chars)
