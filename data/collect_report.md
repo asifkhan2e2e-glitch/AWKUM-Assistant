@@ -1,13 +1,13 @@
 # Collector report
 
-Run: 2026-11-10T00:58:49+00:00
+Run: 2026-11-10T13:56:22+00:00
 
-- New: 0  |  Changed: 2  |  Unchanged: 717  |  Removed: 0
+- New: 2  |  Changed: 3  |  Unchanged: 716  |  Removed: 0
 
 ## Items by category
 
 - department: 221
-- news: 154
+- news: 156
 - other: 69
 - admission: 60
 - jobs: 54
