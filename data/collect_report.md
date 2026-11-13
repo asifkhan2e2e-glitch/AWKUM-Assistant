@@ -1,45 +1,31 @@
 # Collector report
 
-Run: 2026-11-13T04:00:44+00:00
+Run: 2026-11-13T13:37:47+00:00
 
-- New: 0  |  Changed: 2  |  Unchanged: 718  |  Removed: 0
+- New: 4  |  Changed: 2  |  Unchanged: 364  |  Removed: 0
 
 ## Items by category
 
-- department: 221
-- news: 156
-- other: 69
-- admission: 60
-- jobs: 54
+- news: 158
+- jobs: 55
 - phd_defense: 53
-- administration: 31
+- admission: 46
 - tender: 26
 - hostel: 17
-- academics: 9
-- exam_result: 9
-- about: 6
+- exam_result: 10
 - merit_list: 4
-- scholarship: 2
-- home: 1
-- fee: 1
-- contact: 1
+- scholarship: 1
 
 ## Fee table (program-wise fees read from the fee calculator)
 
-- https://awkum.edu.pk/admissions/fee-structure/: 155 programs
 
 ## Merit list posts (entries parsed)
 
 - Merit Lists Announced for Admissions-Fall 2026: 54 entries
 - BS/MS/MPhil and PhD Merit Lists Announced for Admissions-Fall 2026: 179 entries
 
-## Items that are only an embedded file (title + link, content not readable): 31
+## Items that are only an embedded file (title + link, content not readable): 26
 
-- https://awkum.edu.pk/scheme-of-studies/
-- https://awkum.edu.pk/prospectus/
-- https://awkum.edu.pk/time-tables/
-- https://awkum.edu.pk/administration/quality-enhancement-cell-qec/
-- https://awkum.edu.pk/academics/affiliations/affiliation-fee-structure/
 - https://news.awkum.edu.pk/2026/09/3rd-provisional-merit-list-fall-2026.html
 - https://news.awkum.edu.pk/2026/09/2nd-provisional-merit-list-fall-2026.html
 - https://news.awkum.edu.pk/2026/08/1st-international-conference-on-art.html
@@ -50,19 +36,14 @@ Run: 2026-11-13T04:00:44+00:00
 - https://news.awkum.edu.pk/2026/06/list-of-appeals-received-against.html
 - https://news.awkum.edu.pk/2026/06/pre-bid-meeting-minutes-and-revised.html
 - https://news.awkum.edu.pk/2026/04/faculty-recruitment-announcement.html
+- https://news.awkum.edu.pk/2026/02/notification-selected-students-for-swef_6.html
+- https://news.awkum.edu.pk/2026/02/notification-selected-students-for-swef.html
+- https://news.awkum.edu.pk/2026/02/notification-selected-students-for-hec.html
+- https://news.awkum.edu.pk/2026/01/technical-evaluation-report.html
+- https://news.awkum.edu.pk/2025/11/technical-evaluation-report-issued-for.html
 
-## Items with very little text (164) - probably image-based, need a look
+## Items with very little text (154) - probably image-based, need a look
 
-- https://awkum.edu.pk/awkum-research-journals/research-databases/ (100 chars)
-- https://awkum.edu.pk/faculties-colleges/colleges/ (0 chars)
-- https://awkum.edu.pk/statutory-bodies/fpc/ (0 chars)
-- https://awkum.edu.pk/academics/affiliations/gov-colleges-affiliated-in-bs-program/ (98 chars)
-- https://awkum.edu.pk/academics/affiliations/private-colleges-affiliation/ (0 chars)
-- https://awkum.edu.pk/academics/affiliations/public-colleges-affiliation/ (0 chars)
-- https://awkum.edu.pk/academics/hec-approved-supervisors/ (0 chars)
-- https://awkum.edu.pk/friday-as-working-day/ (0 chars)
-- https://awkum.edu.pk/vc-charge-assumption/ (21 chars)
-- https://awkum.edu.pk/professor-dr-zahoor-ul-haq-appointed-as-vice-chancellor-awkum-for-the-period-of-three-years/ (0 chars)
 - https://news.awkum.edu.pk/2026/11/tender-notice-for-purchase-of-sports.html (140 chars)
 - https://news.awkum.edu.pk/2026/11/tender-notice-for-supply-installation.html (125 chars)
 - https://news.awkum.edu.pk/2026/10/notification-from-office-of-registrar_02105787359.html (0 chars)
@@ -133,3 +114,13 @@ Run: 2026-11-13T04:00:44+00:00
 - https://news.awkum.edu.pk/2026/03/open-public-defense-of-phd-dissertation_35.html (0 chars)
 - https://news.awkum.edu.pk/2026/03/open-public-defense-of-phd-dissertation_26.html (0 chars)
 - https://news.awkum.edu.pk/2026/03/awkum-announces-eid-ul-fitr-and.html (0 chars)
+- https://news.awkum.edu.pk/2026/03/open-public-defense-of-phd-dissertation_18.html (0 chars)
+- https://news.awkum.edu.pk/2026/03/open-public-defense-of-phd-dissertation.html (0 chars)
+- https://news.awkum.edu.pk/2026/03/walk-in-interview-visiting-faculty.html (0 chars)
+- https://news.awkum.edu.pk/2026/02/tender-for-air-conditioners-rfp-for-25.html (108 chars)
+- https://news.awkum.edu.pk/2026/02/walk-in-interview-visiting-faculty_21.html (0 chars)
+- https://news.awkum.edu.pk/2026/02/walk-in-interview-visiting-faculty_20.html (0 chars)
+- https://news.awkum.edu.pk/2026/02/open-public-defense-of-phd-dissertation_20.html (0 chars)
+- https://news.awkum.edu.pk/2026/02/walk-in-interview-visiting-faculty_19.html (0 chars)
+- https://news.awkum.edu.pk/2026/02/re-advertisement-for-interviews-visting.html (0 chars)
+- https://news.awkum.edu.pk/2026/02/walk-in-interview-visiting-faculty_18.html (0 chars)
