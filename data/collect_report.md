@@ -1,15 +1,15 @@
 # Collector report
 
-Run: 2026-11-13T23:00:10+00:00
+Run: 2026-11-14T03:59:15+00:00
 
-- New: 1  |  Changed: 4  |  Unchanged: 720  |  Removed: 0
+- New: 0  |  Changed: 2  |  Unchanged: 722  |  Removed: 0
 
 ## Items by category
 
 - department: 221
 - news: 159
 - other: 69
-- admission: 60
+- admission: 59
 - jobs: 55
 - phd_defense: 53
 - administration: 31
@@ -51,7 +51,7 @@ Run: 2026-11-13T23:00:10+00:00
 - https://news.awkum.edu.pk/2026/06/pre-bid-meeting-minutes-and-revised.html
 - https://news.awkum.edu.pk/2026/04/faculty-recruitment-announcement.html
 
-## Items with very little text (165) - probably image-based, need a look
+## Items with very little text (164) - probably image-based, need a look
 
 - https://awkum.edu.pk/awkum-research-journals/research-databases/ (100 chars)
 - https://awkum.edu.pk/faculties-colleges/colleges/ (0 chars)
