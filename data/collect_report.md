@@ -1,8 +1,8 @@
 # Collector report
 
-Run: 2026-11-16T03:45:44+00:00
+Run: 2026-11-16T14:16:16+00:00
 
-- New: 0  |  Changed: 2  |  Unchanged: 368  |  Removed: 0
+- New: 0  |  Changed: 0  |  Unchanged: 370  |  Removed: 0
 
 ## Items by category
 
