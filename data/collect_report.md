@@ -1,19 +1,19 @@
 # Collector report
 
-Run: 2026-11-22T22:56:51+00:00
+Run: 2026-11-23T04:40:51+00:00
 
-- New: 0  |  Changed: 2  |  Unchanged: 721  |  Removed: 0
+- New: 0  |  Changed: 2  |  Unchanged: 717  |  Removed: 0
 
 ## Items by category
 
 - department: 221
-- news: 159
+- news: 156
 - other: 69
 - admission: 59
 - jobs: 56
 - phd_defense: 51
 - administration: 31
-- tender: 26
+- tender: 25
 - hostel: 17
 - exam_result: 10
 - academics: 9
@@ -33,7 +33,7 @@ Run: 2026-11-22T22:56:51+00:00
 - Merit Lists Announced for Admissions-Fall 2026: 54 entries
 - BS/MS/MPhil and PhD Merit Lists Announced for Admissions-Fall 2026: 179 entries
 
-## Items that are only an embedded file (title + link, content not readable): 31
+## Items that are only an embedded file (title + link, content not readable): 30
 
 - https://awkum.edu.pk/scheme-of-studies/
 - https://awkum.edu.pk/prospectus/
@@ -51,7 +51,7 @@ Run: 2026-11-22T22:56:51+00:00
 - https://news.awkum.edu.pk/2026/06/pre-bid-meeting-minutes-and-revised.html
 - https://news.awkum.edu.pk/2026/04/faculty-recruitment-announcement.html
 
-## Items with very little text (163) - probably image-based, need a look
+## Items with very little text (162) - probably image-based, need a look
 
 - https://awkum.edu.pk/awkum-research-journals/research-databases/ (100 chars)
 - https://awkum.edu.pk/faculties-colleges/colleges/ (0 chars)
